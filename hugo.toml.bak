@@ -1,0 +1,14 @@
+baseURL = 'https://example.org/'
+languageCode = 'zh-Hans'
+title = '小王的个人blog'
+copyright = "skyao.io &copy; 2019"
+
+[[module.imports]]
+path = "hugo-theme-stack"
+
+
+
+
+
+
+

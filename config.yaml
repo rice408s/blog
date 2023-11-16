@@ -1,0 +1,246 @@
+baseurl: http://47.108.226.33
+languageCode: zh-cn
+DefaultContentLanguage: zh-cn
+theme: hugo-theme-stack
+paginate: 100
+title: 白干饭的个人博客
+copyright: " "
+
+# 站点语言为中文
+languages:
+    zh-cn:
+        languageName: 中文
+        title: 白干饭 
+        weight: 2
+        params:
+            description: 无限进步 
+
+# Change it to your Disqus shortname before using
+# 在使用前更改为您的 Disqus 短名称
+disqusShortname: hugo-theme-stack
+
+# GA Tracking ID
+# Google Analytics 跟踪 ID
+googleAnalytics:
+
+# 主题国际化支持
+# 可用值：ar、bn、ca、de、el、en、es、fr、hu、id、it、ja、ko、nl、pt-br、th、uk、zh-cn、zh-hk、zh-tw
+DefaultContentLanguage: zh-cn 
+
+# 如果 DefaultContentLanguage 为 [zh-cn ja ko] 中的一种，请将 hasCJKLanguage 设置为 true
+# 这将使 .Summary 和 .WordCount 对于 CJK 语言表现正确。
+hasCJKLanguage: false
+
+permalinks:
+    post: /p/:slug/
+    page: /:slug/
+
+params:
+    mainSections:
+        - post
+    featuredImageField: image
+    rssFullContent: true
+    favicon:  img/icon.svg 
+
+    footer:
+        since: 2021
+        customText:
+
+    dateFormat:
+        published: 2006/01/01
+        lastUpdated: 2006/01/01
+
+    sidebar:
+        emoji: 🍂
+        subtitle: 忙里偷闲
+        avatar:
+            enabled: true
+            local: true
+            src: img/avatar.jpg
+            # 修改头像为方形
+
+    article:
+        math: false
+        toc: true
+        readingTime: false
+        license:
+            enabled: true
+            default: '转载需要保留原始链接，未经明确许可，禁止商业使用。[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)'
+
+    comments:
+        enabled: true
+        provider: disqus
+
+        disqusjs:
+            shortname:
+            apiUrl:
+            apiKey:
+            admin:
+            adminLabel:
+
+        utterances:
+            repo:
+            issueTerm: pathname
+            label:
+
+        remark42:
+            host:
+            site:
+            locale:
+
+        vssue:
+            platform:
+            owner:
+            repo:
+            clientId:
+            clientSecret:
+            autoCreateIssue: false
+
+        # Waline 客户端配置，请参见：https://waline.js.org/en/reference/component.html
+        waline:
+            serverURL:
+            lang:
+            pageview:
+            emoji:
+                - https://unpkg.com/@waline/emojis@1.0.1/weibo
+            requiredMeta:
+                - name
+                - email
+                - url
+            locale:
+                admin: Admin
+                placeholder:
+
+        twikoo:
+            envId:
+            region:
+            path:
+            lang:
+
+        # 有关各种选项的说明，请参见 https://cactus.chat/docs/reference/web-client/#configuration
+        cactus:
+            defaultHomeserverUrl: "https://matrix.cactus.chat:8448"
+            serverName: "cactus.chat"
+            siteName: "" # 您必须在此处插入一个唯一的标识符，与您注册的标识符匹配（请参见 https://cactus.chat/docs/getting-started/quick-start/#register-your-site）
+
+        giscus:
+            repo:
+            repoID:
+            category:
+            categoryID:
+            mapping:
+            lightTheme:
+            darkTheme:
+            reactionsEnabled: 1
+            emitMetadata: 0
+
+        gitalk:
+            owner:
+            admin:
+            repo:
+            clientID:
+            clientSecret:
+
+        cusdis:
+            host:
+            id:
+    widgets:
+        enabled:
+            - search
+            - archives
+            - tag-cloud
+        homepage:
+            - type: search
+            - type: archives
+              params:
+                  limit: 5
+            - type: categories
+              params:
+                  limit: 10
+            - type: tag-cloud
+              params:
+                  limit: 10
+        page:
+            - type: toc
+
+    opengraph:
+        twitter:
+            # 您的 Twitter 用户名
+            site:
+
+            # 可用值：summary、summary_large_image
+            card: summary_large_image
+
+    defaultImage:
+        opengraph:
+            enabled: ture
+            local: true
+            src: img/icon.jpg
+
+    colorScheme:
+        # 显示切换
+        toggle: true
+
+        # 可用值：auto、light、dark
+        default: auto
+
+    imageProcessing:
+        cover:
+            enabled: true
+        content:
+            enabled: true
+
+### 自定义菜单
+### 请参见 https://docs.stack.jimmycai.com/configuration/custom-menu.html
+### 要删除关于、存档和搜索页面菜单项，请从它们的 FrontMatter 中删除 `menu` 字段
+menu:
+    main: []
+
+    social:
+        - identifier: github
+          name: GitHub
+          url: https://github.com/rice408s
+          params:
+              icon: github 
+
+        - identifier: email
+          name: email
+          url: mailto:hongwei.wang408@gmail.com
+          params:
+              icon: email
+        - identifier: 
+          name: qq
+          url: https://qm.qq.com/q/qbZtYc9Rfi
+          params:
+              icon: qq
+
+related:
+    includeNewer: true
+    threshold: 60
+    toLower: false
+    indices:
+        - name: tags
+          weight: 100
+
+        - name: categories
+          weight: 200
+
+
+
+markup:
+    goldmark:
+        renderer:
+            ## 如果 Markdown 中有 HTML 内容，请将其设置为 true
+            unsafe: true
+    tableOfContents:
+        endLevel: 4
+        ordered: true
+        startLevel: 2
+    highlight:
+        noClasses: false
+        codeFences: true
+        guessSyntax: true
+        lineNoStart: 1
+        lineNos: true
+        lineNumbersInTable: true
+        tabWidth: 4

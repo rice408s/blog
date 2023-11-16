@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Categories on 白干饭</title>
+        <link>http://47.108.226.33/categories/</link>
+        <description>Recent content in Categories on 白干饭</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright> </copyright>
+        <lastBuildDate>Wed, 15 Nov 2023 19:32:48 +0800</lastBuildDate><atom:link href="http://47.108.226.33/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>编程</title>
+        <link>http://47.108.226.33/categories/%E7%BC%96%E7%A8%8B/</link>
+        <pubDate>Wed, 15 Nov 2023 19:32:48 +0800</pubDate>
+        
+        <guid>http://47.108.226.33/categories/%E7%BC%96%E7%A8%8B/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>日常</title>
+        <link>http://47.108.226.33/categories/%E6%97%A5%E5%B8%B8/</link>
+        <pubDate>Wed, 15 Nov 2023 19:32:48 +0800</pubDate>
+        
+        <guid>http://47.108.226.33/categories/%E6%97%A5%E5%B8%B8/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Test</title>
+        <link>http://47.108.226.33/categories/test/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://47.108.226.33/categories/test/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>

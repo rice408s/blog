@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>编程 on 白干饭</title>
+        <link>http://47.108.226.33/categories/%E7%BC%96%E7%A8%8B/</link>
+        <description>Recent content in 编程 on 白干饭</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright> </copyright>
+        <lastBuildDate>Wed, 15 Nov 2023 19:32:48 +0800</lastBuildDate><atom:link href="http://47.108.226.33/categories/%E7%BC%96%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>第一篇</title>
+        <link>http://47.108.226.33/p/%E7%AC%AC%E4%B8%80%E7%AF%87/</link>
+        <pubDate>Wed, 15 Nov 2023 19:32:48 +0800</pubDate>
+        
+        <guid>http://47.108.226.33/p/%E7%AC%AC%E4%B8%80%E7%AF%87/</guid>
+        <description>&lt;img src="http://47.108.226.33/p/%E7%AC%AC%E4%B8%80%E7%AF%87/wallhaven-jxl3qp.jpg" alt="Featured image of post 第一篇" /&gt;&lt;h2 id=&#34;helloworld&#34;&gt;Hello,World&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;a&lt;/li&gt;
+&lt;li&gt;b&lt;/li&gt;
+&lt;li&gt;c&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;good&#34;&gt;good&lt;/h2&gt;
+&lt;p&gt;good&lt;/p&gt;
+&lt;h3 id=&#34;ddd&#34;&gt;ddd&lt;/h3&gt;
+&lt;h2 id=&#34;game&#34;&gt;game&lt;/h2&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
