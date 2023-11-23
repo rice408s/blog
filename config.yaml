@@ -3,9 +3,10 @@ languageCode: zh-cn
 DefaultContentLanguage: zh-cn
 theme: hugo-theme-stack
 paginate: 100
-title: 白干饭的个人博客
+title: 白干饭的个人博客1
+name: 白干饭
 copyright: " "
-
+buildFuture: true
 # 站点语言为中文
 languages:
     zh-cn:
@@ -40,15 +41,16 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon:  img/icon.svg 
+    # favicon:  img/icon.svg 
+    # favicon:  favicon.ico
 
     footer:
-        since: 2021
+        since: 
         customText:
 
     dateFormat:
-        published: 2006/01/01
-        lastUpdated: 2006/01/01
+        published: 2006/01/02
+        lastUpdated: 2006/01/02
 
     sidebar:
         emoji: 🍂
@@ -72,7 +74,7 @@ params:
         provider: disqus
 
         disqusjs:
-            shortname:
+            shortname: "rice"
             apiUrl:
             apiKey:
             admin:
