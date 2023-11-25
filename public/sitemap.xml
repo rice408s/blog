@@ -2,59 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://47.108.226.33/categories/</loc>
+    <loc>http://rice408.cn/categories/</loc>
+    <lastmod>2023-11-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rice408.cn/categories/</loc>
+    <lastmod>2023-11-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rice408.cn/categories/gin/</loc>
+    <lastmod>2023-11-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rice408.cn/categories/golang/</loc>
+    <lastmod>2023-11-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rice408.cn/post/</loc>
+    <lastmod>2023-11-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rice408.cn/tags/rmall/</loc>
+    <lastmod>2023-11-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rice408.cn/tags/</loc>
+    <lastmod>2023-11-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rice408.cn/</loc>
+    <lastmod>2023-11-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rice408.cn/categories/%E7%BC%96%E7%A8%8B/</loc>
+    <lastmod>2023-11-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rice408.cn/p/%E4%BB%8E0%E5%AE%9E%E7%8E%B0%E5%9F%BA%E4%BA%8Egin%E7%9A%84rmall%E5%95%86%E5%9F%8E%E9%A1%B9%E7%9B%AE%E4%BA%8C%E6%95%B0%E6%8D%AE%E5%BA%93%E6%93%8D%E4%BD%9C/</loc>
+    <lastmod>2023-11-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rice408.cn/tags/%E5%95%86%E5%9F%8E/</loc>
+    <lastmod>2023-11-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rice408.cn/p/%E4%BB%8E0%E5%AE%9E%E7%8E%B0%E5%9F%BA%E4%BA%8Egin%E7%9A%84rmall%E5%95%86%E5%9F%8E%E9%A1%B9%E7%9B%AE%E4%B8%80%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6/</loc>
     <lastmod>2023-11-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://47.108.226.33/categories/</loc>
-    <lastmod>2023-11-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://47.108.226.33/categories/gin/</loc>
-    <lastmod>2023-11-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://47.108.226.33/categories/golang/</loc>
-    <lastmod>2023-11-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://47.108.226.33/post/</loc>
-    <lastmod>2023-11-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://47.108.226.33/tags/rmall/</loc>
-    <lastmod>2023-11-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://47.108.226.33/tags/</loc>
-    <lastmod>2023-11-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://47.108.226.33/</loc>
-    <lastmod>2023-11-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://47.108.226.33/categories/%E7%BC%96%E7%A8%8B/</loc>
-    <lastmod>2023-11-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://47.108.226.33/p/%E4%BB%8E0%E5%AE%9E%E7%8E%B0%E5%9F%BA%E4%BA%8Egin%E7%9A%84rmall%E5%95%86%E5%9F%8E%E9%A1%B9%E7%9B%AE%E4%B8%80%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6/</loc>
-    <lastmod>2023-11-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://47.108.226.33/tags/%E5%95%86%E5%9F%8E/</loc>
-    <lastmod>2023-11-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://47.108.226.33/page/</loc>
+    <loc>http://rice408.cn/page/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://47.108.226.33/archives/</loc>
+    <loc>http://rice408.cn/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://47.108.226.33/</loc>
+    <loc>http://rice408.cn/</loc>
   </url><url>
-    <loc>http://47.108.226.33/categories/golang/</loc>
+    <loc>http://rice408.cn/categories/golang/</loc>
   </url><url>
-    <loc>http://47.108.226.33/categories/test/</loc>
+    <loc>http://rice408.cn/categories/test/</loc>
   </url><url>
-    <loc>http://47.108.226.33/categories/%E7%BC%96%E7%A8%8B/</loc>
+    <loc>http://rice408.cn/categories/%E7%BC%96%E7%A8%8B/</loc>
   </url><url>
-    <loc>http://47.108.226.33/about/</loc>
+    <loc>http://rice408.cn/about/</loc>
   </url><url>
-    <loc>http://47.108.226.33/categories/%E6%97%A5%E5%B8%B8/</loc>
+    <loc>http://rice408.cn/categories/%E6%97%A5%E5%B8%B8/</loc>
   </url><url>
-    <loc>http://47.108.226.33/search/</loc>
+    <loc>http://rice408.cn/search/</loc>
   </url><url>
-    <loc>http://47.108.226.33/friends/</loc>
+    <loc>http://rice408.cn/photos/</loc>
+  </url><url>
+    <loc>http://rice408.cn/friends/</loc>
   </url>
 </urlset>

@@ -2,61 +2,87 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Pages on 白干饭</title>
-        <link>http://47.108.226.33/page/</link>
+        <link>http://rice408.cn/page/</link>
         <description>Recent content in Pages on 白干饭</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright> </copyright>
-        <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://47.108.226.33/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://rice408.cn/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>归档</title>
-        <link>http://47.108.226.33/archives/</link>
+        <link>http://rice408.cn/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>http://47.108.226.33/archives/</guid>
+        <guid>http://rice408.cn/archives/</guid>
         <description></description>
         </item>
         <item>
         <title></title>
-        <link>http://47.108.226.33/</link>
+        <link>http://rice408.cn/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://47.108.226.33/</guid>
+        <guid>http://rice408.cn/</guid>
         <description></description>
         </item>
         <item>
         <title>关于</title>
-        <link>http://47.108.226.33/about/</link>
+        <link>http://rice408.cn/about/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://47.108.226.33/about/</guid>
+        <guid>http://rice408.cn/about/</guid>
         <description>&lt;p&gt;一名苦逼计算机大学生。&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>搜索</title>
-        <link>http://47.108.226.33/search/</link>
+        <link>http://rice408.cn/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://47.108.226.33/search/</guid>
+        <guid>http://rice408.cn/search/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>相册</title>
+        <link>http://rice408.cn/photos/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://rice408.cn/photos/</guid>
         <description></description>
         </item>
         <item>
         <title>友链</title>
-        <link>http://47.108.226.33/friends/</link>
+        <link>http://rice408.cn/friends/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://47.108.226.33/friends/</guid>
-        <description>&lt;!-- # links:
-#   - title: GitHub
-#     description: GitHub is the world&#39;s largest software development platform.
-#     website: https://github.com
-#     image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-#   - title: TypeScript
-#     description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
-#     website: https://www.typescriptlang.org
-#     image: ts-logo-128.jpg
-# --- --&gt;
-</description>
+        <guid>http://rice408.cn/friends/</guid>
+        <description>&lt;a href=&#34;https://www.rice408.cn/&#34; title=&#34;白干饭&#34; class=&#34;friend-link&#34; target=&#34;_blank&#34; rel=&#34;friend&#34;&gt;
+    &lt;div class=&#34;friend-link-div&#34;&gt;
+        &lt;div class=&#34;friend-link-avatar&#34;&gt;
+            &lt;img src=https://pic.imgdb.cn/item/655f104dc458853aef3ac69d.jpg class=&#34;friend-avatar&#34; loading=&#34;lazy&#34; alt=&#34;Avatar&#34;&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;friend-link-info&#34;&gt;
+            &lt;i class=&#34;fa fa-link&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+            &lt;i class=&#34;friend-name&#34;&gt;白干饭&lt;/i&gt;
+            &lt;p class=&#34;friend-bio&#34;&gt;忙里偷闲&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/a&gt;
+
+&lt;h2 id=&#34;友链格式&#34;&gt;友链格式&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nt&#34;&gt;Name&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;白干饭&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;Bio&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;忙里偷闲&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;avatar&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://pic.imgdb.cn/item/655f104dc458853aef3ac69d.jpg&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;url&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://rice408.cn/&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
         </item>
         
     </channel>

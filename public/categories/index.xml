@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on 白干饭</title>
-        <link>http://47.108.226.33/categories/</link>
+        <link>http://rice408.cn/categories/</link>
         <description>Recent content in Categories on 白干饭</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright> </copyright>
-        <lastBuildDate>Wed, 22 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://47.108.226.33/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 25 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://rice408.cn/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>gin</title>
-        <link>http://47.108.226.33/categories/gin/</link>
-        <pubDate>Wed, 22 Nov 2023 00:00:00 +0000</pubDate>
+        <link>http://rice408.cn/categories/gin/</link>
+        <pubDate>Sat, 25 Nov 2023 00:00:00 +0000</pubDate>
         
-        <guid>http://47.108.226.33/categories/gin/</guid>
+        <guid>http://rice408.cn/categories/gin/</guid>
         <description></description>
         </item>
         <item>
         <title>golang</title>
-        <link>http://47.108.226.33/categories/golang/</link>
-        <pubDate>Wed, 22 Nov 2023 00:00:00 +0000</pubDate>
+        <link>http://rice408.cn/categories/golang/</link>
+        <pubDate>Sat, 25 Nov 2023 00:00:00 +0000</pubDate>
         
-        <guid>http://47.108.226.33/categories/golang/</guid>
+        <guid>http://rice408.cn/categories/golang/</guid>
         <description></description>
         </item>
         <item>
         <title>编程</title>
-        <link>http://47.108.226.33/categories/%E7%BC%96%E7%A8%8B/</link>
-        <pubDate>Wed, 22 Nov 2023 00:00:00 +0000</pubDate>
+        <link>http://rice408.cn/categories/%E7%BC%96%E7%A8%8B/</link>
+        <pubDate>Sat, 25 Nov 2023 00:00:00 +0000</pubDate>
         
-        <guid>http://47.108.226.33/categories/%E7%BC%96%E7%A8%8B/</guid>
+        <guid>http://rice408.cn/categories/%E7%BC%96%E7%A8%8B/</guid>
         <description></description>
         </item>
         <item>
         <title>Test</title>
-        <link>http://47.108.226.33/categories/test/</link>
+        <link>http://rice408.cn/categories/test/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://47.108.226.33/categories/test/</guid>
+        <guid>http://rice408.cn/categories/test/</guid>
         <description></description>
         </item>
         

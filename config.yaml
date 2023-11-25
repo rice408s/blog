@@ -1,4 +1,4 @@
-baseurl: http://47.108.226.33
+baseurl: http://rice408.cn/
 languageCode: zh-cn
 DefaultContentLanguage: zh-cn
 theme: hugo-theme-stack
@@ -59,7 +59,6 @@ params:
             enabled: true
             local: true
             src: img/avatar.jpg
-            # 修改头像为方形
 
     article:
         math: false
@@ -71,7 +70,7 @@ params:
 
     comments:
         enabled: true
-        provider: disqus
+        provider: waline
 
         disqusjs:
             shortname: "rice"
@@ -100,7 +99,7 @@ params:
 
         # Waline 客户端配置，请参见：https://waline.js.org/en/reference/component.html
         waline:
-            serverURL:
+            serverURL: https://comments.rice408.cn/
             lang:
             pageview:
             emoji:
